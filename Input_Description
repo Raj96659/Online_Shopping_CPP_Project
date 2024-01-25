@@ -1,0 +1,46 @@
+	cout<<"--------Please follow the instruction--------"<<endl;
+	cout<<"(1) Please enter m to order mobile phones"<<endl;
+	cout<<"(2) Please enter l to order laptop"<<endl;
+	cout<<"(3) Please enter d to order desktop"<<endl;
+	cout<<"(4) Please enter s to order speakers"<<endl;
+	cout<<"(5) Please enter h to order headphones"<<endl;
+
+    cout<<"Mobile Details"<<endl;
+		cout<<"(1) Apple  => Price : 40000"<<endl;
+		cout<<"(2) Vivo   => Price : 25000"<<endl;
+		cout<<"(3) Pocco  => Price : 20000"<<endl;
+		cout<<"(4) Redmi  => Price : 18000"<<endl;
+		cout<<"(5) Realme => Price : 17000"<<endl;
+		cout<<"(6) Oppo   => Price : 25000"<<endl;
+
+    cout<<"DESKTOP Details"<<endl;
+		cout<<"(1) Dell     => Price : 140000"<<endl;
+		cout<<"(2) HP       => Price : 125000"<<endl;
+		cout<<"(3) Macbook  => Price : 120000"<<endl;
+		cout<<"(4) Lenovo   => Price : 118000"<<endl;
+		cout<<"(5) Compaq   => Price : 117000"<<endl;
+		cout<<"(6) Asus     => Price : 125000"<<endl;
+
+    cout<<"LAPTOP Details"<<endl;
+		cout<<"(1) Dell-15          => Price : 140000"<<endl;
+		cout<<"(2) HP-3000s         => Price : 125000"<<endl;
+		cout<<"(3) Macbook-Air      => Price : 120000"<<endl;
+		cout<<"(4) Lenovo-pro       => Price : 118000"<<endl;
+		cout<<"(5) Compaq++         => Price : 117000"<<endl;
+		cout<<"(6) Asus-Airbook     => Price : 125000"<<endl;
+
+    cout<<"SPEAKER Details"<<endl;
+		cout<<"(1) Boat         => Price : 1400"<<endl;
+		cout<<"(2) Ptron        => Price : 1250"<<endl;
+		cout<<"(3) Airdrop      => Price : 1200"<<endl;
+		cout<<"(4) Realme       => Price : 1180"<<endl;
+		cout<<"(5) Oppo-jbl     => Price : 1170"<<endl;
+		cout<<"(6) Asus-jbl     => Price : 1250"<<endl;
+
+    cout<<"Headphone Details"<<endl;
+		cout<<"(1) Boat         => Price : 400"<<endl;
+		cout<<"(2) Ptron        => Price : 250"<<endl;
+		cout<<"(3) Airdrop      => Price : 200"<<endl;
+		cout<<"(4) Realme       => Price : 180"<<endl;
+		cout<<"(5) Oppo-jbl     => Price : 170"<<endl;
+		cout<<"(6) Asus-jbl     => Price : 150"<<endl;
